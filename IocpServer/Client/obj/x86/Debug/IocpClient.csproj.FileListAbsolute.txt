@@ -1,0 +1,7 @@
+E:\Desktop\IocpServer\IocpServer\Client\bin\Debug\IocpClient.exe
+E:\Desktop\IocpServer\IocpServer\Client\bin\Debug\IocpClient.pdb
+E:\Desktop\IocpServer\IocpServer\Client\obj\x86\Debug\IocpClient.Form1.resources
+E:\Desktop\IocpServer\IocpServer\Client\obj\x86\Debug\IocpClient.Properties.Resources.resources
+E:\Desktop\IocpServer\IocpServer\Client\obj\x86\Debug\IocpClient.csproj.GenerateResource.Cache
+E:\Desktop\IocpServer\IocpServer\Client\obj\x86\Debug\IocpClient.exe
+E:\Desktop\IocpServer\IocpServer\Client\obj\x86\Debug\IocpClient.pdb
